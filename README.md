@@ -19,8 +19,10 @@ y copiar las carpetas admin y catalog en la carpeta raiz de su proyecto.
 En el menu de Extensiones haces clic en **Pagos**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_3.png)
 
-Busca en la lista de extensiones a **Paycores Payment Gateway**y haces clic en **Instalar**
+Busca en la lista de extensiones a **Paycores Payment Gateway**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_4.png)
+
+y haces clic en **Instalar**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_5.png)
 
 ## Configurar el plugin Opencart de Paycores ##
@@ -44,4 +46,3 @@ Felicitaciones ha integrado pagos a través de Paycores en su página web.
  ## Recomendaciones: ##
 El servicio de nuestra Api requiere de que los servidores cuenten con un certificado TLS debidamente firmado, 
 y el proyecto debe de estar bien estructurado con el código limpio para que el certificado TLS SSL funcione correctamente. 
-
