@@ -6,27 +6,27 @@ para pagos a través de nuestra pasarela. A continuación describimos los puntos
 cuenta para integrar nuestro plugin Opencart de forma segura y sencilla.
 
 ## Instalar el plugin Opencart de Paycores
-**Paso 1:**
-Se debe de [descargar](https://codeload.github.com/Paycores/WooCommerce_plugin/zip/master) el plugin Opencart de Paycores.
+**Paso 1:** 
+Se debe de [descargar](https://codeload.github.com/Paycores/Opencart_2_plugin/zip/master) el plugin Opencart de Paycores.
 
-**Paso 2:**
+**Paso 2:** 
 Instalación en Opencart: para instalar el plugin Opencart debes descomprimir el archivo 
 y copiar las carpetas admin y catalog en la carpeta raiz de su proyecto.
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_1.png)
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_2.png)
 
-**Paso 3:**
+**Paso 3:** 
 En el menu de Extensiones haces clic en **Pagos**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_3.png)
 
 Busca en la lista de extensiones a **Paycores Payment Gateway**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_4.png)
 
-y haces clic en **Instalar**
+y haces clic en **Instalar** 
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_5.png)
 
 ## Configurar el plugin Opencart de Paycores ##
-**Paso 4:**
+**Paso 4:** 
 Una vez instalado el plugin Opencart de Paycores presiona el boton de **Editar** 
 llene los datos que se solicitan presione el boton **Guardar**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_6.png)
