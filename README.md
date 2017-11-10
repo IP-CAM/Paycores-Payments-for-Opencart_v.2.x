@@ -16,16 +16,16 @@ y copiar las carpetas admin y catalog en la carpeta raiz de su proyecto.
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_2.png)
 
 **Paso 3:**
-En el menu de Extensiones haces clic en**Pagos**
+En el menu de Extensiones haces clic en **Pagos**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_3.png)
 
-Busca en la lista de extensiones a**Paycores Payment Gateway**y haces clic en**Instalar**
+Busca en la lista de extensiones a **Paycores Payment Gateway**y haces clic en **Instalar**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_4.png)
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_5.png)
 
 ## Configurar el plugin Opencart de Paycores ##
 **Paso 4:**
-Una vez instalado el plugin Opencart de Paycores presiona el boton de**Editar**
+Una vez instalado el plugin Opencart de Paycores presiona el boton de **Editar**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_6.png)
 
 Llene los datos que se solicitan y presione el boton **Guardar**
