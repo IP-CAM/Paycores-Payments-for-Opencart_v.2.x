@@ -1,5 +1,5 @@
 ## Plugin Opencart 2 de Paycores.com ##
-[link a Paycores Opencart](https://paycores.com/Opencart_2_plugin).
+[link a Paycores Opencart](https://paycores.com/complementos#opencart).
 
 Paycores brinda soporte seguro y confiable, por esto ofrecemos nuestro plugin Opencart 
 para pagos a través de nuestra pasarela. A continuación describimos los puntos que debes de tener en 
