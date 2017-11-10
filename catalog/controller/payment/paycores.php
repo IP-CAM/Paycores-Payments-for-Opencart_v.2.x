@@ -12,7 +12,7 @@ class ControllerPaymentPaycores extends Controller {
         $this->language->load('payment/paycores');
         $data['button_confirm'] = $this->language->get('button_confirm');
         $data['paycores_tanks_orden'] = $this->language->get('thanks_orden');
-        $data["action"] = $this->config->get('paycoresTestMode') ? 'http://localhost/business_core/web-checkout/' : 'http://localhost/business_core/web-checkout/';//'https://sandbox.paycores.com/web-checkout/' : 'https://business.paycores.com/web-checkout/';
+        $data["action"] = $this->config->get('paycoresTestMode') ? 'https://sandbox.paycores.com/web-checkout/' : 'https://business.paycores.com/web-checkout/';
 
         $this->load->model('checkout/order');
 
