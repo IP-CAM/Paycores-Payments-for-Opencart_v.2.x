@@ -27,11 +27,10 @@ y haces clic en **Instalar**
 
 ## Configurar el plugin Opencart de Paycores ##
 **Paso 4:**
-Una vez instalado el plugin Opencart de Paycores presiona el boton de **Editar**
-Llene los datos que se solicitan
+Una vez instalado el plugin Opencart de Paycores presiona el boton de **Editar** 
+llene los datos que se solicitan presione el boton **Guardar**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_6.png)
 
-presione el boton **Guardar**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_7.png)
 
 * **CommerceID:** CommerceID asignado en el panel de administración de Paycores
