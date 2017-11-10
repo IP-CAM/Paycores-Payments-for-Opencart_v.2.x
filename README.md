@@ -31,8 +31,6 @@ Una vez instalado el plugin Opencart de Paycores presiona el boton de **Editar**
 llene los datos que se solicitan presione el boton **Guardar**
 ![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_6.png)
 
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_7.png)
-
 * **CommerceID:** CommerceID asignado en el panel de administración de Paycores
 * **ApiKey:** ApiKey asignada en el panel de administración de Paycores
 * **ApiLogin:** ApiLogin asignado en el panel de administración de Paycores
@@ -40,6 +38,8 @@ llene los datos que se solicitan presione el boton **Guardar**
 * **activar transacciones de prueba:** Activa las transacciones de prueba de Paycores
 * **Estado de orden aprobada:** Estado en el que quedan las ordenes aprobadas por Paycores
 * **Estado de orden fallida:** Estado en el que quedan las ordenes negadas o fallidas por Paycores
+
+![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_7.png)
 
 Felicitaciones ha integrado pagos a través de Paycores en su página web.
 
