@@ -1,48 +1,48 @@
-## Plugin Opencart 2 de Paycores.com ##
-[link a Paycores Opencart](https://paycores.com/complementos#opencart).
+## Plugin Opencart 2 from Paycores.com ##
+[link to Paycores Opencart] (https://paycores.com/complementos#opencart).
 
-Paycores brinda soporte seguro y confiable, por esto ofrecemos nuestro plugin Opencart 
-para pagos a través de nuestra pasarela. A continuación describimos los puntos que debes de tener en 
-cuenta para integrar nuestro plugin Opencart de forma segura y sencilla.
+Paycores provides secure and reliable support, that is why we offer our Opencart plugin
+for payments through our gateway. Below we describe the points you should keep in mind
+account to integrate our Opencart plugin safely and easily.
 
-## Instalar el plugin Opencart de Paycores
-**Paso 1:** 
-Se debe de [descargar](https://codeload.github.com/Paycores/Opencart_2_plugin/zip/master) el plugin Opencart de Paycores.
+## Install the Paycores Opencart plugin
+**Step 1:**
+You must [download] (https://codeload.github.com/Paycores/Opencart_2_plugin/zip/master) the Paycores Opencart plugin.
 
-**Paso 2:** 
-Instalación en Opencart: para instalar el plugin Opencart debes descomprimir el archivo 
-y copiar las carpetas admin y catalog en la carpeta raiz de su proyecto.
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_1.png)
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_2.png)
+**Step 2:**
+Installation in Opencart: to install the Opencart plugin you must unzip the file
+and copy the folders admin and catalog in the root folder of your project.
+! [alt text] (https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_1.png)
+! [alt text] (https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_2.png)
 
-**Paso 3:** 
-En el menu de Extensiones haces clic en **Pagos**
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_3.png)
+**Step 3:**
+In the Extensions menu click on ** Payments **
+! [alt text] (https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_3.png)
 
-Busca en la lista de extensiones a **Paycores Payment Gateway**
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_4.png)
+Search the list of extensions for ** Paycores Payment Gateway **
+! [alt text] (https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_4.png)
 
-y haces clic en **Instalar** 
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_5.png)
+and click ** Install **
+! [alt text] (https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_5.png)
 
-## Configurar el plugin Opencart de Paycores ##
-**Paso 4:** 
-Una vez instalado el plugin Opencart de Paycores presiona el boton de **Editar** 
-llene los datos que se solicitan presione el boton **Guardar**
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_6.png)
+## Configure the Paycores Opencart plugin ##
+**Step 4:**
+Once the Paycores Opencart plugin is installed, press the ** Edit ** button
+fill in the requested data press the button ** Save **
+! [alt text] (https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_6.png)
 
-* **CommerceID:** CommerceID asignado en el panel de administración de Paycores
-* **ApiKey:** ApiKey asignada en el panel de administración de Paycores
-* **ApiLogin:** ApiLogin asignado en el panel de administración de Paycores
-* **estado:** Activa o Desactiva el plugin en la tienda
-* **activar transacciones de prueba:** Activa las transacciones de prueba de Paycores
-* **Estado de orden aprobada:** Estado en el que quedan las ordenes aprobadas por Paycores
-* **Estado de orden fallida:** Estado en el que quedan las ordenes negadas o fallidas por Paycores
+* ** CommerceID: ** CommerceID assigned in the Paycores administration panel
+* ** ApiKey: ** ApiKey assigned in the Paycores administration panel
+* ** ApiLogin: ** ApiLogin assigned in the Paycores administration panel
+* ** status: ** Activate or Deactivate the plugin in the store
+* ** activate test transactions: ** Activate test transactions from Paycores
+* ** Status of approved order: ** Status of the orders approved by Paycores
+* ** Failed order status: ** Status of the orders denied or failed by Paycores
 
-![alt text](https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_7.png)
+! [alt text] (https://raw.githubusercontent.com/paycores/steps/master/Opencart/step_7.png)
 
-Felicitaciones ha integrado pagos a través de Paycores en su página web.
+Congratulations has integrated payments through Paycores on its website.
 
- ## Recomendaciones: ##
-El servicio de nuestra Api requiere de que los servidores cuenten con un certificado TLS debidamente firmado, 
-y el proyecto debe de estar bien estructurado con el código limpio para que el certificado TLS SSL funcione correctamente. 
+ ## Recommendations: ##
+The service of our Api requires that the servers have a duly signed TLS certificate,
+and the project must be well structured with clean code for the TLS SSL certificate to work properly. 
